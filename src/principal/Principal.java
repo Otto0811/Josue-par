@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ Nombre 
+Josue Miguel Tejeda 
  */
 package principal;
 
@@ -117,7 +116,7 @@ public class Principal {
             }
             System.out.println("Intente de nuevo");
         } while (opcion != 3);
-
+        System.out.println("Gracias por su visita.");
     }
 
 }
